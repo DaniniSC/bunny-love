@@ -66,7 +66,7 @@ header ul li a {
 }
 /*seccion conejos*/
 .conejitos {
-	margin-top: 50px;
+	margin-top: 3%;
 }
 .conejo_peter {
 	padding: 10px;
@@ -327,6 +327,7 @@ footer p {
 		font-size: 10px;
 		margin-left: 1%;
 	}
+	.banner
 	/*banner*/
 	.titulo1 {
 		width: 60%;
@@ -336,6 +337,9 @@ footer p {
 	}
 	.soft {
 		font-size: 20px;
+	}
+	.titulo1 {
+		margin: 10% auto;
 	}
 }
 @media (min-width: 376px) and (max-width: 667px) { /* mobile, pantallas algo más grandes */
@@ -367,6 +371,9 @@ footer p {
 	.soft {
 		font-size: 30px;
 	}
+	.titulo1 {
+		margin: 10% auto;
+	}
 }
 @media (min-width: 667px) and (max-width: 1024px) { /* tablet y algo de desktop */
 	.izq, .der {
@@ -375,6 +382,9 @@ footer p {
 	}
 	.col-5 {
 		width: 100%;
+	}
+	.titulo1 {
+		margin: 10% auto;
 	}
 }
 @media (min-width: 1024px) and (max-width: 1600px) { /* desktop y pantallas grandes */
