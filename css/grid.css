@@ -196,6 +196,9 @@ nav ul li {
  	.box-margin {
 		margin: 0 10px 0 10px;
 	}
+	.foto1{
+		width: 85%;
+	}
 }
 
 @media only screen and (max-width : 479px) {
@@ -265,4 +268,5 @@ nav ul li {
     .text-center-sm {
     	text-align: center;
     }
+
 }
