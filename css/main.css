@@ -311,7 +311,7 @@ footer p {
 @media (min-width: 320px) and (max-width: 375px) { /* mobile, dispositivos muy pequeños (iphone4) */
 	.izq, .der {
 		width: 100%;
-		max-width: 100%;
+		max-width: 95%;
 	}
 	.col-5 {
 		width: 100%;
@@ -341,7 +341,7 @@ footer p {
 @media (min-width: 376px) and (max-width: 667px) { /* mobile, pantallas algo más grandes */
 	.izq, .der {
 		width: 100%;
-		max-width: 100%;
+		max-width: 95%;
 	}
 	.col-5 {
 		width: 100%;
@@ -371,7 +371,7 @@ footer p {
 @media (min-width: 667px) and (max-width: 1024px) { /* tablet y algo de desktop */
 	.izq, .der {
 		width: 100%;
-		max-width: 100%;
+		max-width: 95%;
 	}
 	.col-5 {
 		width: 100%;
